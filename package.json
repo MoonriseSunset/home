@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.32.2",
-    "@fontsource-variable/baloo-bhaina-2": "^5.1.1",
+    "@fontsource-variable/baloo-bhaina-2": "^5.2.0",
     "@fontsource-variable/cabin": "^5.1.1",
     "astro": "^5.4.1"
   }
