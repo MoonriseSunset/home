@@ -10,6 +10,9 @@ export default defineConfig({
   integrations: [	
     starlight({
       title: "virtual house",
+	  components:{
+		  Footer: './src/components/Footer.astro',
+	  },
 			customCss:[
 				'./src/styles/starlight.css',
 
